@@ -1,5 +1,5 @@
 # UTA-ChallengeThree
-![Screenshot of deployed webpage](https://user-images.githubusercontent.com/119711335/210123879-91df0447-1271-4898-ba80-97b51094fc2d.png)
+![Screenshot of deployed webpage](/assets/images/Screenshot (2).png)
 
 Visit the deployed application [Here.](https://re-gi.github.io/UTA-ChallengeThree/)
 
@@ -16,7 +16,7 @@ N/A
 ## Usage
 The user should start by clicking on the red 'Generate Password' button, then read and respond to each prompt until all that's left is their randomized password in place of where the page originally read 'Your Secure Password'. This text can then be copied and used as the user pleases.
 
-![Screenshot of application with a prompt window](https://user-images.githubusercontent.com/119711335/210125722-74faafcf-d5ac-440f-be4b-098eb182cf53.png)![Screenshot of application with a confirmation window](https://user-images.githubusercontent.com/119711335/210125729-c47d9a87-6ffd-446f-85e0-f07581b8a32d.png)![Screenshot of application with a randomly generated password in the textbox](https://user-images.githubusercontent.com/119711335/210125730-efec4b38-60c1-4663-ab09-30fb2a06703d.png)
+![Screenshot of application with a prompt window](/assets/images/Screenshot (3).png)![Screenshot of application with a confirmation window](/assets/images/Screenshot (4).png)![Screenshot of application with a randomly generated password in the textbox](/assets/images/Screenshot (8).png)
 
 
 ## Credits
